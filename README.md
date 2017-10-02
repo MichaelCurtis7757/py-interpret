@@ -1,2 +1,2 @@
 # py-interpret
-A python based text interpreter
+This program interpretstext inputted into it and attempts to give a repsonse in a similar tone.
